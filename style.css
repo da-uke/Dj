@@ -44,3 +44,13 @@ body
     margin: 15px;
     color: blanchedalmond;
 }
+.play_button
+{
+    width: 130px;
+    font-size: 25px;
+}
+canvas
+{
+    border: 5px solid whitesmoke;
+    border-radius: 20px;
+}
